@@ -7,9 +7,11 @@ int b=20;
 int c=a+b;
 int d=a*b;
 int e=a-b;
+String name= "pawan sharma";
 
 System.out.println("Sum of A and B"+c);
 System.out.println("Multiplication of A and B"+d);
 System.out.println("Diffrence  of A and B"+e);
+system.out.println("May name is ===> "+name)
 }
 }
